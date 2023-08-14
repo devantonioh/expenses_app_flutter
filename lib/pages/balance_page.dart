@@ -62,7 +62,7 @@ class _BalancePageState extends State<BalancePage> {
                     style: const TextStyle(fontSize: 30.0, color: Colors.green),
                   ),
                   const Text(
-                    'Balance',
+                    'BalanceSs',
                     style: TextStyle(fontSize: 16.0),
                   ),
                 ],
