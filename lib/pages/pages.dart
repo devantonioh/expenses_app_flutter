@@ -1,0 +1,9 @@
+export 'package:expenses_app/pages/add_entries.dart';
+export 'package:expenses_app/pages/add_expenses.dart';
+export 'package:expenses_app/pages/balance_page.dart';
+export 'package:expenses_app/pages/categories_details.dart';
+export 'package:expenses_app/pages/charts_page.dart';
+export 'package:expenses_app/pages/entries_details.dart';
+export 'package:expenses_app/pages/expenses_details.dart';
+export 'package:expenses_app/pages/home_page.dart';
+export 'package:expenses_app/pages/setting_page.dart';
